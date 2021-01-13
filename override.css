@@ -1,0 +1,40 @@
+/*BEGIN PS4 White Controller Styling*/
+
+.controller.ds4.white {
+  background-image: url(https://raw.githubusercontent.com/blindedot/custom-gamepad-viewer/main/base.svgz);
+}
+
+.ds4.white.disconnected {
+  background: url(https://raw.githubusercontent.com/blindedot/custom-gamepad-viewer/main/disconnected.svgz);
+}
+
+.ds4.white .trigger {
+  background-image: url(https://raw.githubusercontent.com/blindedot/custom-gamepad-viewer/main/triggers.svgz);
+}
+
+.ds4.white .bumper {
+  background-image: url(https://raw.githubusercontent.com/blindedot/custom-gamepad-viewer/main/bumper.svgz);
+}
+
+.ds4.white .touchpad.pressed {
+  background-image: url(https://raw.githubusercontent.com/blindedot/custom-gamepad-viewer/main/touchpad.svgz);
+}
+
+.ds4.white .back,
+.ds4 .start {
+  background-image: url(https://raw.githubusercontent.com/blindedot/custom-gamepad-viewer/main/start.svgz);
+}
+
+.ds4.white .button {
+  background-image: url(https://raw.githubusercontent.com/blindedot/custom-gamepad-viewer/main/face.svgz);
+}
+
+.ds4.white .stick {
+  background-image: url(https://raw.githubusercontent.com/blindedot/custom-gamepad-viewer/main/sticks.svgz);
+}
+
+.ds4.white .face {
+  background-image: url(https://raw.githubusercontent.com/blindedot/custom-gamepad-viewer/main/dpad.svgz);
+}
+
+/*END PS4 White Controller Styling*/
