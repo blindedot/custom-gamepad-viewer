@@ -7,8 +7,8 @@
 	.st0{fill:none;}
 	.st1{fill:#B3B3B3;}
 	.st2{fill:#FFFFFF;}
-	.st3{fill:#44475a;} <!-- controller body -->
-	.st4{fill:#282a36;} <!-- controller shadow -->
+	.st3{fill:#282a36;} <!-- controller body -->
+	.st4{fill:#44475a;} <!-- controller shadow -->
 	.st5{fill:#121212;}
 	.st6{fill:#ff79c6;} <!-- pad background circle -->
 	.st7{opacity:0.12;}
