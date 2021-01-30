@@ -9,8 +9,8 @@
 	.st3{fill:#8be9fd;}
 	.st4{fill:#69AFBE;}
 	.st5{fill:#69AFBE;}
-	.st6{stroke:#8E6FBB;stroke-width="2";} <!-- pad axis -->
-	.st7{stroke:#69AFBE;stroke-width="2";} <!-- pad axis -->
+	.st6{stroke:#282a36;} <!-- pad axis -->
+	.st7{stroke:#282a36;} <!-- pad axis -->
 </style>
 <g>
 	<g>

@@ -3,6 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="806px" height="598.9px" viewBox="-556 241.1 806 598.9" style="enable-background:new -556 241.1 806 598.9;"
 	 xml:space="preserve">
+<defs>
+	<style type="text/css">
+			@import url("https://fonts.googleapis.com/css?family=Faster+One");
+	</style>
+</defs>
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#B3B3B3;}
@@ -13,11 +18,11 @@
 	.st6{fill:#ff79c6;} <!-- pad background circle -->
 	.st7{opacity:0.12;}
 	.st8{fill:url(#SVGID_5_);}
-	.st9{fill:#1F1F1F;} <!-- dpad mini-arrows -->
+	.st9{fill:#282a36;} <!-- dpad mini-arrows -->
 	.st10{fill:#8E6FBB;} <!-- trigger shadow color -->
 	.st11{fill:#bd93f9;} <!-- trigger main color -->
-	.st12{fill:#2C2C2C;}
-	.st13{fill:#222222;}
+	.st12{fill:#282a36;}
+	.st13{fill:#44475a;}
 	.st14{fill:#FF6666;}
 	.st15{fill:#7CB2E8;}
 	.st16{fill:#FF69F8;}
@@ -38,7 +43,8 @@
 	.st31{fill:#EDEDED;}
 	.st32{fill:#F5F5F5;}
 	.st33{display:inline;opacity:8.000000e-002;}
-	.st34{stroke:#282a36;stroke-width="2";} <!-- pad axis -->
+	.st34{stroke:#282a36;} <!-- pad axis -->
+	.st35{fill:#282a36;font-style:bold;font-family:Faster One;font-size:23px} <!-- name -->
 </style>
 <pattern  x="-556" y="840" width="71" height="71" patternUnits="userSpaceOnUse" id="SVGID_1_" viewBox="0 -71 71 71" style="overflow:visible;">
 	<g>
@@ -398,7 +404,7 @@
 			<path class="st11" d="M-25.6,365.4c0-1-0.8-1.9-1.9-1.9H-153l0,0h-125.6c-1,0-1.9,0.8-1.9,1.9v6v123.2c0,8.6,7,15.6,15.6,15.6
 				H-153l0,0h111.9c8.6,0,15.6-7,15.6-15.6V371.5L-25.6,365.4z"/>
 				<!-- name -->
-			<text x="-282.5" y="462.5" textLength="255" fill="#F8F8F2" lengthAdjust="spacingAndGlyphs" font-family="monospace" font-weight="bold" font-size="32">&#160;&#160;&#160;BLINDEDOT&#160;&#160;&#160;</text>
+			<text class="st35" x="-282.5" y="442.5" textLength="255" lengthAdjust="spacingAndGlyphs">&#160;&#160;&#160;Blindedot&#160;&#160;&#160;</text>
 			<g class="st26">
 				
 					<pattern  id="SVGID_8_" xlink:href="#SVGID_4_" patternTransform="matrix(0.1017 0 0 -0.1017 -14417.875 -1652.5269)"  class="st26">
